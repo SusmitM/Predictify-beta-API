@@ -1,7 +1,9 @@
-pytesseract 
-flask_cors
-requests
 flask
-gunicorn
+flask_cors
+pytesseract 
 PIL
 io
+requests
+gunicorn
+
+

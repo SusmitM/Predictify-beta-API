@@ -1,0 +1,7 @@
+pytesseract 
+flask_cors
+requests
+flask
+gunicorn
+PIL
+io

@@ -6,7 +6,7 @@ from flask_cors import CORS, cross_origin
 
 #tesseract our ML model
 import pytesseract as tess
-tess.pytesseract.tesseract_cmd= r'C:\Users\ADMIN\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+
 
 #to handel Image operations
 from PIL import Image

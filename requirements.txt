@@ -2,7 +2,6 @@ flask
 flask_cors
 pytesseract 
 Pillow
-PIL
 io
 requests
 gunicorn

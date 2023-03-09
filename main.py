@@ -8,6 +8,7 @@ from flask_cors import CORS, cross_origin
 import pytesseract as tess
 
 
+
 #to handel Image operations
 from PIL import Image
 

@@ -1,10 +1,8 @@
 flask
 flask_cors
-pytesseract 
 Pillow
-requests
 torch
 easyocr
-gunicorn
+
 
 
